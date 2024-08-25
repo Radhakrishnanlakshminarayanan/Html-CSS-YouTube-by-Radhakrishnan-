@@ -1,0 +1,42 @@
+button {
+ font-family: Roboto;
+}
+.subscribe {
+ background-color: blue;
+ font-weight: lighter;
+ font-size: medium;
+ color: white;
+ border: none;
+ height: 37px;
+ width: 105px;
+ border-radius: 2px;
+ cursor: pointer;
+ margin-right: 5px;
+
+}
+.join {
+ background-color: white;
+ font-weight: lighter;
+ color: blue;
+ border-width: 1px;
+ border-color: blue;
+ border-style: solid;
+ height: 37px;
+ width: 105px;
+ cursor: pointer;
+ margin-left: 5px;
+
+}
+.tweet {
+ font-weight: bold;
+ background-color: rgb(8, 112, 181);
+ color: white;
+ border: none;
+ height: 37px;
+ width: 105px;
+ border-radius: 18px;
+ font-size: 17px;
+ cursor: pointer;
+ margin-left: 9px;
+
+}
